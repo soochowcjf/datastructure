@@ -6,4 +6,6 @@ package com.javalanguage.chapter4;
 public class TestGit {
 
     //测试提交
+
+    //测试master提交
 }
