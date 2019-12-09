@@ -8,4 +8,6 @@ public class TestGit {
     //测试提交
 
     //测试master提交
+
+    //测试merge no fast forward
 }
